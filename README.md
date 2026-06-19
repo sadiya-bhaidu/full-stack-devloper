@@ -1,2 +1,2 @@
-# Git-Practical
+# Full Stack Developer Portfolio
 
